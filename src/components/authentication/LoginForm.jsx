@@ -1,9 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
-
 const projectID = process.env.REACT_APP_PROJECT_ID
-
 
 const LoginForm = () => {
     const [username, setUsername] = React.useState('');
