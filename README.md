@@ -14,6 +14,10 @@ Welcome to ChatSkoot! This is a chat application built using React and React Cha
 - Create a chat room or join an existing one.
 - Start sending and receiving messages in real-time.
 - Upload and share images within the chat.
+- You can use these details to log in[
+(userName: Opeyemi, password: 12345)
+(userName: Hannah, password: 12345)
+]
 
 ### Production
 
